@@ -5,6 +5,6 @@
 1.[Liverpool](www.liverpool.com.mx)
 2.[Palacio](www.elpalacio.com.mx)
 3.[Sears](www.sears.com.mx)
-![Imagen] (Repo_Automation_01/aguacate_relleno.jpg)
+![Aguacate relleno!](rogarciad/Repo_Automation_01/aguacate_relleno.jpg)
 
 
