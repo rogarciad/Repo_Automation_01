@@ -1,9 +1,5 @@
-# Repo_Automation_01
-#**Receta de cocina 
-##Aguacates rellenos
-###Para chuparse los dedos**
-![Aguacate](aguacate_relleno.jpg)
+# Receta de cocina - Chiles en Nogada
 
-
-
-
+<p align="center">
+<img src="Chiles_en_nogada.jpg" width="350">
+</p>
