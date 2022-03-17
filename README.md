@@ -67,3 +67,10 @@
 1.-Para conservar la nuez de castilla sin que se ponga obscura, remoja en leche hasta que la utilices.
 
 2.-Para preparar la nogada en otra temporada que no hay nuez de Castilla, puedes usar almendras peladas y molidas que le darán un sabor delicioso.
+
+**Emoticones:**
+
+:satisfied:
+
+:face_in_clouds:
+
