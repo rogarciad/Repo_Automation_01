@@ -4,8 +4,8 @@
 <img src="Chiles_en_nogada.jpg" width="350">
 </p>
 
-# Ingredientes
-## Para el relleno
+## Ingredientes
+### Para el relleno
 1 cucharada de KNORR® Caldo de costilla
 
 3 cucharadas de aceite vegetal
@@ -32,7 +32,7 @@
 
 1/2 taza de agua
 
-## Para la Nogada
+### Para la Nogada
 
 300 gramos de nuez de Castilla
 
@@ -42,7 +42,7 @@
 
 1/4 taza de crema reducida en grasa
 
-## Para los Chiles
+### Para los Chiles
 6 chiles poblanos grandes, asados, sin piel y sin semillas
 
 1 taza de granada limpia
